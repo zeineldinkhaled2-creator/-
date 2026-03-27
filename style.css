@@ -1,0 +1,18 @@
+body{
+   text-align: center;
+   background : antiquewhite;
+}
+#div{
+    background-color: white;
+    color: blue;
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+}
+p , #option , input{
+    display: block;
+    margin: 0 auto;
+}
+p , label , #option , input{
+    margin-top: 10px; height: 20px;
+}

@@ -1,0 +1,51 @@
+body{
+    direction: rtl;
+    background-image: url(og-ltrFpnbsFq.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    line-height: 300%;
+    font-size: 30px;
+    color: #ffffffff;
+}
+
+header{
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    margin: auto;
+    width: 100%;
+}
+
+header a{
+    margin-right: 100px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  color: #008000;
+}
+
+td, th {
+  border: 1px solid #4e3402f1;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #000000;
+}
+
+tr:nth-child(odd){
+    background-color: #ffffffff;
+}
+
+#sub , #res{
+    height: 150%;
+    width: 80px;
+}
+footer{
+    background-color: #000000;
+    text-align: center;
+    color:#ffffff;
+}
